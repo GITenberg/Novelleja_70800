@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9084'
     url: http://www.gutenberg.org/2009/agents/9084
     wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Keller, Gottfried
@@ -22,6 +25,8 @@ creator:
     - https://de.wikipedia.org/wiki/Gottfried_Keller
 description: 'Translated selections from: Die Leute von Seldwyla, Sinngedicht, and
   Sieben Legenden.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70800#Novelleja
 gutenberg_issued: '2023-05-19'
 identifiers:
   gutenberg: '70800'
